@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... developing automation frameworks
 - 🌱 I’m currently learning ... spring boot
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... mdbasheer333@gmail.com
 
 <!---
 mdbasheer333/mdbasheer333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
