@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mdbasheer333
 - 👀 I’m interested in ... developing automation frameworks
 - 🌱 I’m currently learning ... spring boot
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... test automation framework develpment and learn spring boot
 - 📫 How to reach me ... mdbasheer333@gmail.com
 
 <!---
